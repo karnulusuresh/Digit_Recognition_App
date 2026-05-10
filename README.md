@@ -19,6 +19,10 @@ A Deep Learning project using CNN and Streamlit to recognize handwritten digits.
 
 ## Run Project
 
+## Application Screenshot
+
+![App Screenshot](app_screenshot.png)
+
 ```bash
 pip install -r requirements.txt
 streamlit run app1.py
