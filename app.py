@@ -11,7 +11,7 @@ import os
 print(os.getcwd())
 
 # Load trained model
-model = load_model("myPython/digit_model.keras")
+model = load_model("digit_model.keras")
 
 st.title("Handwritten Digit Recognition")
 
